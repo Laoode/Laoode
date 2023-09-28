@@ -1,3 +1,4 @@
+![logo](https://github.com/Laoode/Laoode/blob/main/Banner%20Github.png)
 <h1 align="center">Hi 👋, I'm Yudhy Prayitno</h1>
 <h3 align="center">A passionate Software Developer from Indonesia</h3>
 
