@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yudhy Prayitno</h1>
 <h3 align="center">A passionate Software Developer from Indonesia</h3>
 
+<img align = 'right' alt='coding' width'400' src='![image](https://github.com/Laoode/Laoode/assets/119650090/1d4a915c-dc4f-4dc9-802a-40d66e8f346d)'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laoode&label=Profile%20views&color=0e75b6&style=flat" alt="laoode" /> </p>
 
 <h3 align="left">Connect with me:</h3>
