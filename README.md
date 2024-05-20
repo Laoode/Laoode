@@ -36,9 +36,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laoode&show_icons=true&locale=en&layout=compact" alt="laoode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laoode&show_icons=true&locale=en&layout=compact" alt="laoode" height="192px"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laoode&show_icons=true&locale=en" alt="laoode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laoode&show_icons=true&locale=en" alt="laoode" height="192px" /></p>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=neon&border_radius=4.7" alt="GitHub Streak" /></a>
 </p>
