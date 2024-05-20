@@ -1,11 +1,15 @@
 ![logo](https://github.com/Laoode/Laoode/blob/main/Banner%20Github.png)
-<h1 align="center">Hi 👋, I'm Yudhy Prayitno</h1>
-<h3 align="center">A passionate Software Developer from Indonesia</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=926FF7&center=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yudhy+Prayitno" alt="Typing SVG" /></a><p align="center">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=926FF7&center=true&random=false&width=435&lines=Computer+Science+Student;Always+Learning+New+Things;Machine+Learning+%26+AI+Developer" alt="Typing SVG" /></a></p>
+<hr>
+
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laoode&label=Profile%20views&color=0e75b6&style=flat" alt="laoode" /> </p>
-<p align ="left">Aspiring Computer Scientist | Machine Learning Enthusiast | AI & Computer Vision Enthusiast | Data Science Enthusiast | Flutter Enthusiast | Blockchain Enthusiast </p>
+<p align ="left">Aspiring Computer Scientist | Machine Learning Enthusiast | AI & Computer Vision Enthusiast | Data Science Enthusiast | Blockchain Analysis Enthusiast </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rinjin_ry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinjin_ry" height="30" width="40" /></a>
@@ -35,5 +39,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laoode&show_icons=true&locale=en&layout=compact" alt="laoode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laoode&show_icons=true&locale=en" alt="laoode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laoode&" alt="laoode" /></p>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=neon&border_radius=4.7" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a>
+</p>
