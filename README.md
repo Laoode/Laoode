@@ -25,21 +25,22 @@
 </p>
 
 
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=laoode&show_icons=true&locale=en&layout=compact" alt="laoode"/></p>
 
+<p >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=laoode&show_icons=true&locale=en" alt="laoode"  /></p>
 
-
-
-
-
-
-
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=laoode&show_icons=true&locale=en&layout=compact" alt="laoode"/></p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=laoode&show_icons=true&locale=en" alt="laoode"  /></p>
-
-<p align="center">
+<p >
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a>
 </p>
+
+
+# 💻 Featured YouTube Videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Eps 01 Introduction to Python Programming | Data Structure](https://ytcards.demolab.com/?id=i_XFYE0qttc&title=Eps+01+Introduction+to+Python+Programming+%7C+Data+Structure&lang=en&timestamp=1716850800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5228 "Eps 01 Introduction to Python Programming | Data Structure")](https://youtu.be/i_XFYE0qttc?si=exLSbcUTEVep9V3H)
+[![Deteksi Pencuri Otomatis via CCTV dengan Sistem Alarm dan Foto Pelaku menggunakan YOLOv5+OpenCV(ROI)](https://ytcards.demolab.com/?id=GKpb74elfus&title=Deteksi+Pencuri+Otomatis+via+CCTV+dengan+Sistem+Alarm+dan+Foto+Pelaku+menggunakan+YOLOv5%2BOpenCV%28ROI%29&lang=en&timestamp=1715046000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3276 "Deteksi Pencuri Otomatis via CCTV dengan Sistem Alarm dan Foto Pelaku menggunakan YOLOv5+OpenCV(ROI)")](https://youtu.be/GKpb74elfus?si=K4aIkF6eQqWlJjGo)
+[![TUTORIAL WEBSITE CRUD (CREATE, READ, UPDATE, DELETE) MUDAH DIPAHAMI !!!](https://ytcards.demolab.com/?id=yi8H-UeEuy0&title=TUTORIAL+WEBSITE+CRUD+%28CREATE%2C+READ%2C+UPDATE%2C+DELETE%29+MUDAH+DIPAHAMI+%21%21%21&lang=en&timestamp=1699846800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8858 "TUTORIAL WEBSITE CRUD (CREATE, READ, UPDATE, DELETE) MUDAH DIPAHAMI !!!")](https://youtu.be/yi8H-UeEuy0?si=kOXe2RXsKu4rKQeB)
+<!-- END YOUTUBE-CARDS -->
