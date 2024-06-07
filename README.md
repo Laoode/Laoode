@@ -24,7 +24,7 @@
 </a> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a>
 </a> <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/> </a>
 </a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
-</a> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
+</a> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/teepublic/image/private/s--3vBpnJtd--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1665248663/production/designs/35529713_.jpg" alt="solidity" width="40" height="40"/> </a>
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=laoode&theme=midnight-purple&hide_border=true&show_icons=true&locale=en" alt="laoode"  /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laoode&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
