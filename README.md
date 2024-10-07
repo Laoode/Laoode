@@ -29,6 +29,7 @@
 </a> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/teepublic/image/private/s--3vBpnJtd--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1665248663/production/designs/35529713_.jpg" alt="solidity" width="40" height="40"/> </a>
 </a> <a href="https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction#:~:text=Motoko%20is%20a%20concurrent%2C%20actor,imperative%20and%20object%2Doriented%20features." target="_blank" rel="noreferrer"> <img src="https://motoko-lsp-client.gallerycdn.vsassets.io/extensions/motoko-lsp-client/motoko-lsp-client/2.2.0/1583876431744/Microsoft.VisualStudio.Services.Icons.Default" alt="motoko" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="power bi" width="40" height="40"/> </a>
 
 </p>
 
