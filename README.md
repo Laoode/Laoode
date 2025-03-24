@@ -60,4 +60,8 @@
 | 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
 | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
 
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-seven-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31qm2wibuajpi3siaz3q2jck7vyy)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
