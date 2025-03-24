@@ -30,6 +30,7 @@
 </a> <a href="https://docs.ultralytics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" alt="yolo" width="40" height="40"/> </a>
 <a href="https://flet.dev/" target="_blank" rel="noreferrer"> <img src="https://flet.dev/img/logo.svg" alt="flet" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
+<a href="https://reflex.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" alt="reflex" width="40" height="40"/> </a>
 <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="power bi" width="40" height="40"/> </a>
 </p>
 
