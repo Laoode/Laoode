@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laoode&label=Profile%20views&color=0e75b6&style=flat" alt="laoode" /> </p>
-<p align ="left">Aspiring Computer Scientist | Machine Learning Enthusiast | AI & Computer Vision Enthusiast | Data Science Enthusiast | Blockchain Analysis Enthusiast </p>
+<p align ="left">Aspiring Computer Scientist | Machine Learning, AI | Computer Vision, Data Science, Blockchain Analysis, and LLM Enthusiast</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Ryuuki_X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinjin_ry" height="30" width="40" /></a>
