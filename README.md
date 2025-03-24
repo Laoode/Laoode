@@ -42,7 +42,7 @@
 </p>
 
 
-# 💻 Featured YouTube Videos
+## 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
@@ -61,7 +61,7 @@
 | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
 
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing 
 [![Spotify](https://novatorem-seven-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31qm2wibuajpi3siaz3q2jck7vyy)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
