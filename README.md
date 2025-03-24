@@ -53,4 +53,12 @@
 [![TUTORIAL WEBSITE CRUD (CREATE, READ, UPDATE, DELETE) MUDAH DIPAHAMI !!!](https://ytcards.demolab.com/?id=yi8H-UeEuy0&title=TUTORIAL+WEBSITE+CRUD+%28CREATE%2C+READ%2C+UPDATE%2C+DELETE%29+MUDAH+DIPAHAMI+%21%21%21&lang=en&timestamp=1699846800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8858 "TUTORIAL WEBSITE CRUD (CREATE, READ, UPDATE, DELETE) MUDAH DIPAHAMI !!!")](https://youtu.be/yi8H-UeEuy0?si=kOXe2RXsKu4rKQeB)
 <!-- END YOUTUBE-CARDS -->
 
+## 🌐 Featured Blog Posts  
+
+| [![Introduction to Decentralised Science (DeSci)](https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp)](https://y-intelligence.vercel.app/posts/intro-desci/) | [![Introduction to Artificial Intelligence](https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp)](https://y-intelligence.vercel.app/posts/intro-ai/) |
+|---|---|
+| 📅 **2024-11-21** | 📅 **2024-11-01** |
+| 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
+| 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
