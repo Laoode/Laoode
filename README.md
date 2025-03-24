@@ -41,7 +41,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a>
 </p>
 
-## 🚀 Featured Projects  
+## 🚀 Featured Portfolio Projects  
 | <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Fingerprint_Recognition/raw/main/Images/UI-Fingerprint.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Cancer-Predictor/raw/main/Images/medical-tech.gif" width="300" height="200"> |
 |---|---|---|
 | 🖋️ **EdTech App with Real-Time Sentiment Analysis** | 🖋️ **Biometrics Fingerprint Recognition** | 🖋️ **The Breast Cancer Diagnosis Predictor App** |
