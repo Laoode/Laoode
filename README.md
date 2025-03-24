@@ -53,9 +53,9 @@
 <!-- END YOUTUBE-CARDS -->
 
 ## 🌐 Featured Blog Posts  
-
-| [![Introduction to Decentralised Science (DeSci)](https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp)](https://y-intelligence.vercel.app/posts/intro-desci/) | [![Introduction to Artificial Intelligence](https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp)](https://y-intelligence.vercel.app/posts/intro-ai/) |
+| <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200"> |
 |---|---|
+| 🖋️ **Introduction to Decentralised Science (DeSci)** | 🖋️ **Introduction to Artificial Intelligence** |
 | 📅 **2024-11-21** | 📅 **2024-11-01** |
 | 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
 | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
