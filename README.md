@@ -57,12 +57,13 @@
 | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Thief-Object-Detection) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Chatbot-Agora-AI) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Netflix-Analytics) |
 
 ## 🌐 Featured Blog Posts  
-| <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200"> |
-|---|---|
-| 🖋️ **Introduction to Decentralised Science (DeSci)** | 🖋️ **Introduction to Artificial Intelligence** |
-| 📅 **2024-11-21** | 📅 **2024-11-01** |
-| 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
-| 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
+| <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="300" height="200"> |
+|---|---|---|
+| 🖋️ **Introduction to Decentralised Science (DeSci)** | 🖋️ **Introduction to Artificial Intelligence** | 🖋️ **Apriori Algorithm (Associated Learning) in Data Mining** |
+| 📅 **2024-11-21** | 📅 **2024-11-01** | 📅 **2025-04-29** |
+| 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* | 🏷️ *Technical, Data Mining, Y-Intelligence* |
+| 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/association-apriori/) |
+
 
 ## 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
