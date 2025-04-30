@@ -57,7 +57,7 @@
 | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Thief-Object-Detection) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Chatbot-Agora-AI) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Netflix-Analytics) |
 
 ## 🌐 Featured Blog Posts  
-| <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="300" height="200"> |
+| <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="410" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="410" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="410" height="200"> |
 |---|---|---|
 | 🖋️ **Introduction to Decentralised Science (DeSci)** | 🖋️ **Introduction to Artificial Intelligence** | 🖋️ **Apriori Algorithm (Associated Learning) in Data Mining** |
 | 📅 **2024-11-21** | 📅 **2024-11-01** | 📅 **2025-04-29** |
