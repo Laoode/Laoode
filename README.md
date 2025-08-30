@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Ryuuki_X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinjin_ry" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/la-ode-muhammad-yudhy-prayitno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laode muhammad yudhy prayitno" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yudhy-prayitno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laode muhammad yudhy prayitno" height="30" width="40" /></a>
 <a href="https://instagram.com/yudhyprayitno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yudhyprayitno" height="30" width="40" /></a>
 </p>
 
@@ -42,14 +42,14 @@
 </p>
 
 ## 🚀 Featured Portfolio Projects  
-| <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Fingerprint_Recognition/raw/main/Images/UI-Fingerprint.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Cancer-Predictor/raw/main/Images/medical-tech.gif" width="300" height="200"> |
-|---|---|---|
-| 🖋️ **EdTech App with Real-Time Sentiment Analysis** | 🖋️ **Biometrics Fingerprint Recognition** | 🖋️ **The Breast Cancer Diagnosis Predictor App** |
-| 📝 *EdTech — A P2P platform connecting students and...* | 📝 *Biometrics Recognition using Deep Learning...* | 📝 *AI-powered app to predict breast cancer...* |
-| 🏷️ *Mobile App, Deep Learning, Sentiment Analysis* | 🏷️ *AI, Biometrics, Fingerprint, Autoencoders* | 🏷️ *Breast Cancer, Machine Learning, Logistic* |
-| 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EdTech-App-Mobile) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Biometrics-Fingerprint) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Breast-Cancer-Predictor) |
+| <img src="https://github.com/Laoode/EduView/raw/main/images/cyberpunk-object.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Fingerprint_Recognition/raw/main/Images/UI-Fingerprint.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Cancer-Predictor/raw/main/Images/medical-tech.gif" width="300" height="200"> |
+|---|---|---|---|
+| 🖋️ **Smart Online Proctoring Assist for Cheating** | 🖋️ **EdTech App with Real-Time Sentiment Analysis** | 🖋️ **Biometrics Fingerprint Recognition** | 🖋️ **The Breast Cancer Diagnosis Predictor App** |
+| 📝 *AI-powered system designed to detect cheating in both offline and online exams...* | 📝 *EdTech — A P2P platform connecting students and...* | 📝 *Biometrics Recognition using Deep Learning...* | 📝 *AI-powered app to predict breast cancer...* |
+| 🏷️ *AI, Computer Vision, YOLO* | 🏷️ *Mobile App, Deep Learning, Sentiment Analysis* | 🏷️ *AI, Biometrics, Fingerprint, Autoencoders* | 🏷️ *Breast Cancer, Machine Learning, Logistic* |
+| 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EduView) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EdTech-App-Mobile) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Biometrics-Fingerprint) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Breast-Cancer-Predictor) |
 
-| <img src="https://github.com/Laoode/Theft_Detection/raw/main/Images/ui-tech.gif" width="300" height="200"> | <img src="https://github.com/Laoode/tubes_pbo_paling_kweren/raw/main/chatbot.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Netflix_Analytics-PowerBI/raw/main/UI-Visualization.gif" width="300" height="200"> |
+| <img src="https://github.com/Laoode/Netflix_Analytics-PowerBI/raw/main/UI-Visualization.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Theft_Detection/raw/main/Images/ui-tech.gif" width="300" height="200"> | <img src="https://github.com/Laoode/tubes_pbo_paling_kweren/raw/main/chatbot.gif" width="300" height="200"> |
 |---|---|---|
 | 🖋️ **YOLO Thief Object Detection** | 🖋️ **Chatbot Application Agora-AI** | 🖋️ **Netflix Analytics PowerBI** |
 | 📝 *Thief detection via CCTV with YOLOv5 and...* | 📝 *Sophisticated chatbot using OpenAI API and...* | 📝 *Interactive Power BI dashboard for Netflix...* |
@@ -57,12 +57,12 @@
 | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Thief-Object-Detection) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Chatbot-Agora-AI) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Netflix-Analytics) |
 
 ## 🌐 Featured Blog Posts  
-| <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="300" height="200"> |
-|---|---|---|
-| 🖋️ **Introduction to Decentralised Science (DeSci)** | 🖋️ **Introduction to Artificial Intelligence** | 🖋️ **Apriori Algorithm (Associated Learning) in Data Mining** |
-| 📅 **2024-11-21** | 📅 **2024-11-01** | 📅 **2025-04-29** |
-| 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* | 🏷️ *Technical, Data Mining, Y-Intelligence* |
-| 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/association-apriori/) |
+| <img src="https://y-intelligence.vercel.app/_astro/cover1.B4VIsC31_Z2vyMF4.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover1.B7HVKaPW_Z1mprwt.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200"> |
+|---|---|---|---|---|
+| 🖋️ **The Rise of Artificial Wombs in Modern Medicine** | 🖋️ **American Scientists Discover New Laws of Physics with the Help of AI** | 🖋️ **Apriori Algorithm (Associated Learning) in Data Mining** | 🖋️ **Introduction to Decentralised Science (DeSci)** | 🖋️ **Introduction to Artificial Intelligence** |
+| 📅 **2025-08-07** | 📅 **2025-08-05** | 📅 **2025-04-29** | 📅 **2024-11-21** | 📅 **2024-11-01** |
+| 🏷️ *Biotech, Artificial Womb, Scientists, Y-Intelligence* | 🏷️ *Physics, AI, Scientists, Y-Intelligence* | 🏷️ *Technical, Data Mining, Y-Intelligence* | 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
+| 🔗 [Read More](https://y-intelligence.vercel.app/posts/artificial-womb/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/ai-discovers-physics-laws/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/association-apriori/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
 
 
 ## 💻 Featured YouTube Videos
