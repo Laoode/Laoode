@@ -49,7 +49,7 @@
 | 🏷️ *AI, Computer Vision, YOLO* | 🏷️ *Mobile App, Deep Learning, Sentiment Analysis* | 🏷️ *AI, Biometrics, Fingerprint, Autoencoders* | 🏷️ *Breast Cancer, Machine Learning, Logistic* |
 | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EduView) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EdTech-App-Mobile) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Biometrics-Fingerprint) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Breast-Cancer-Predictor) |
 
-| <img src="https://github.com/Laoode/Netflix_Analytics-PowerBI/raw/main/UI-Visualization.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Theft_Detection/raw/main/Images/ui-tech.gif" width="300" height="200"> | <img src="https://github.com/Laoode/tubes_pbo_paling_kweren/raw/main/chatbot.gif" width="300" height="200"> |
+| <img src="https://github.com/Laoode/Theft_Detection/raw/main/Images/ui-tech.gif" width="300" height="200"> | <img src="https://github.com/Laoode/tubes_pbo_paling_kweren/raw/main/chatbot.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Netflix_Analytics-PowerBI/raw/main/UI-Visualization.gif" width="300" height="200"> |
 |---|---|---|
 | 🖋️ **YOLO Thief Object Detection** | 🖋️ **Chatbot Application Agora-AI** | 🖋️ **Netflix Analytics PowerBI** |
 | 📝 *Thief detection via CCTV with YOLOv5 and...* | 📝 *Sophisticated chatbot using OpenAI API and...* | 📝 *Interactive Power BI dashboard for Netflix...* |
