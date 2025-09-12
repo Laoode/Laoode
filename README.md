@@ -75,7 +75,7 @@
 [![EDUBRIGHT -- Pitch Deck Capstone Bangkit 2024 Batch 2](https://ytcards.demolab.com/?id=LnSZfNdE0OU&title=EDUBRIGHT+--+Pitch+Deck+Capstone+Bangkit+2024+Batch+2&lang=en&timestamp=1734048000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=580 "EDUBRIGHT -- Pitch Deck Capstone Bangkit 2024 Batch 2")](https://youtu.be/LnSZfNdE0OU?si=M1-Z4NEF7vTlrC47)
 <!-- END YOUTUBE-CARDS -->
 
-### 🎧 Spotify Playing 
-[![Spotify](https://novatorem-seven-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31qm2wibuajpi3siaz3q2jck7vyy)
+<!--### 🎧 Spotify Playing 
+[![Spotify](https://novatorem-seven-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31qm2wibuajpi3siaz3q2jck7vyy)-->
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
