@@ -42,12 +42,12 @@
 </p>
 
 ## 🚀 Featured Portfolio Projects  
-| <img src="https://github.com/Laoode/EduView/raw/main/images/cyberpunk-object.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Fingerprint_Recognition/raw/main/Images/UI-Fingerprint.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Cancer-Predictor/raw/main/Images/medical-tech.gif" width="300" height="200"> |
-|---|---|---|---|
-| 🖋️ **Smart Online Proctoring Assist for Cheating** | 🖋️ **EdTech App with Real-Time Sentiment Analysis** | 🖋️ **Biometrics Fingerprint Recognition** | 🖋️ **The Breast Cancer Diagnosis Predictor App** |
-| 📝 *AI-powered system designed to detect cheating in both offline and online exams...* | 📝 *EdTech — A P2P platform connecting students and...* | 📝 *Biometrics Recognition using Deep Learning...* | 📝 *AI-powered app to predict breast cancer...* |
-| 🏷️ *AI, Computer Vision, YOLO* | 🏷️ *Mobile App, Deep Learning, Sentiment Analysis* | 🏷️ *AI, Biometrics, Fingerprint, Autoencoders* | 🏷️ *Breast Cancer, Machine Learning, Logistic* |
-| 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EduView) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EdTech-App-Mobile) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Biometrics-Fingerprint) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Breast-Cancer-Predictor) |
+| <img src="https://github.com/Laoode/Medical-QA-Agent/raw/main/assets/Banner.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EduView/raw/main/images/cyberpunk-object.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Fingerprint_Recognition/raw/main/Images/UI-Fingerprint.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Cancer-Predictor/raw/main/Images/medical-tech.gif" width="300" height="200"> |
+|---|---|---|---|---|
+| 🖋️ **Conversational Agent for Medical Question-Answering Using RAG and LLM** | 🖋️ **Smart Online Proctoring Assist for Cheating** | 🖋️ **EdTech App with Real-Time Sentiment Analysis** | 🖋️ **Biometrics Fingerprint Recognition** | 🖋️ **The Breast Cancer Diagnosis Predictor App** |
+| 📝 *This project demonstrates how to create a conversational...* | 📝 *AI-powered system designed to detect cheating in both offline and online exams...* | 📝 *EdTech — A P2P platform connecting students and...* | 📝 *Biometrics Recognition using Deep Learning...* | 📝 *AI-powered app to predict breast cancer...* |
+| 🏷️ *LLM, RAG, Medical-QA* | 🏷️ *AI, Computer Vision, YOLO* | 🏷️ *Mobile App, Deep Learning, Sentiment Analysis* | 🏷️ *AI, Biometrics, Fingerprint, Autoencoders* | 🏷️ *Breast Cancer, Machine Learning, Logistic* |
+| 🔗 [View Project](https://ioinformatic.org/index.php/JAIEA/article/view/1077/751) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EduView) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/EdTech-App-Mobile) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Biometrics-Fingerprint) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Breast-Cancer-Predictor) |
 
 | <img src="https://github.com/Laoode/Theft_Detection/raw/main/Images/ui-tech.gif" width="300" height="200"> | <img src="https://github.com/Laoode/tubes_pbo_paling_kweren/raw/main/chatbot.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Netflix_Analytics-PowerBI/raw/main/UI-Visualization.gif" width="300" height="200"> |
 |---|---|---|
