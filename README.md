@@ -57,13 +57,19 @@
 | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Thief-Object-Detection) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Chatbot-Agora-AI) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Netflix-Analytics) |
 
 ## 🌐 Featured Blog Posts  
-| <img src="https://y-intelligence.vercel.app/_astro/cover1.B4VIsC31_Z2vyMF4.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover1.B7HVKaPW_Z1mprwt.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200"> |
-|---|---|---|---|---|
-| 🖋️ **The Rise of Artificial Wombs in Modern Medicine** | 🖋️ **American Scientists Discover New Laws of Physics with the Help of AI** | 🖋️ **Apriori Algorithm (Associated Learning) in Data Mining** | 🖋️ **Introduction to Decentralised Science (DeSci)** | 🖋️ **Introduction to Artificial Intelligence** |
-| 📅 **2025-08-07** | 📅 **2025-08-05** | 📅 **2025-04-29** | 📅 **2024-11-21** | 📅 **2024-11-01** |
-| 🏷️ *Biotech, Artificial Womb, Scientists, Y-Intelligence* | 🏷️ *Physics, AI, Scientists, Y-Intelligence* | 🏷️ *Technical, Data Mining, Y-Intelligence* | 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
-| 🔗 [Read More](https://y-intelligence.vercel.app/posts/artificial-womb/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/ai-discovers-physics-laws/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/association-apriori/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
+| <img src="https://y-intelligence.vercel.app/_astro/cover1.B4VIsC31_Z2vyMF4.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover1.B7HVKaPW_Z1mprwt.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="300" height="200"> |
+|---|---|---|
+| 🖋️ **The Rise of Artificial Wombs in Modern Medicine** | 🖋️ **American Scientists Discover New Laws of Physics with the Help of AI** | 🖋️ **Apriori Algorithm (Associated Learning) in Data Mining** |
+| 📅 **2025-08-07** | 📅 **2025-08-05** | 📅 **2025-04-29** |
+| 🏷️ *Biotech, Artificial Womb, Scientists, Y-Intelligence* | 🏷️ *Physics, AI, Scientists, Y-Intelligence* | 🏷️ *Technical, Data Mining, Y-Intelligence* |
+| 🔗 [Read More](https://y-intelligence.vercel.app/posts/artificial-womb/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/ai-discovers-physics-laws/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/association-apriori/) |
 
+| <img src="https://y-intelligence.vercel.app/_astro/cover.mwFkbjT1_uQDX9.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200"> |
+|---|---|
+| 🖋️ **Introduction to Decentralised Science (DeSci)** | 🖋️ **Introduction to Artificial Intelligence** |
+| 📅 **2024-11-21** | 📅 **2024-11-01** |
+| 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
+| 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
 
 ## 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
