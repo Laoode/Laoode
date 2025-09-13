@@ -36,7 +36,7 @@
 
 <p >
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a>
-  <img align="left" alt="bento" width="400" src="https://github.com/Laoode/Laoode/blob/main/Frame%20bento.avif">
+  <img align="left" alt="bento" width="350" src="https://github.com/Laoode/Laoode/blob/main/Frame%2041.avif">
 </p>
 
 
