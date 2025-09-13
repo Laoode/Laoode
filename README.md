@@ -51,7 +51,7 @@
 | 📝 *Thief detection via CCTV with YOLOv5 and...* | 📝 *Sophisticated chatbot using OpenAI API and...* | 📝 *Interactive Power BI dashboard for Netflix...* |
 | 🏷️ *Object Detection, YOLO* | 🏷️ *AI, Chatbot, OpenAI* | 🏷️ *Data Analytics, PowerBI* |
 | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Thief-Object-Detection) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Chatbot-Agora-AI) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Netflix-Analytics) |
-
+<!--
 ## 🌐 Featured Blog Posts  
 | <img src="https://y-intelligence.vercel.app/_astro/cover1.B4VIsC31_Z2vyMF4.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover1.B7HVKaPW_Z1mprwt.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="300" height="200"> |
 |---|---|---|
@@ -66,7 +66,7 @@
 | 📅 **2024-11-21** | 📅 **2024-11-01** |
 | 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
 | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
-
+-->
 ## 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
