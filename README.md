@@ -1,15 +1,15 @@
-![logo](https://github.com/Laoode/Laoode/blob/main/Banner%20Github.png)
+![logo](https://github.com/Laoode/Laoode/blob/main/Banner%202.0.avif)
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=926FF7&center=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yudhy+Prayitno" alt="Typing SVG" /></a><p align="center">
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=926FF7&center=true&random=false&width=435&lines=Computer+Science+Student;Always+Learning+New+Things;Machine+Learning+%26+AI+Developer" alt="Typing SVG" /></a></p>
+<!--  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=926FF7&center=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yudhy+Prayitno" alt="Typing SVG" /></a><p align="center">
+<p align="center"> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=27&pause=1000&color=926FF7&center=true&random=false&width=435&lines=Computer+Science+Student;Always+Learning+New+Things;Machine+Learning+%26+AI+Developer" alt="Typing SVG" /></a></p>
 <hr>
 
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laoode&label=Profile%20views&color=0e75b6&style=flat" alt="laoode" /> </p>
-<p align ="left">Aspiring Computer Scientist | Machine Learning, AI | Computer Vision, Data Science, Blockchain Analysis, and LLM Enthusiast</p>
+<p align ="left">Aspiring Computer Scientist | Deep Learning, Computer Vision, LLM, and Reinforcement Learning Enthusiast</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Ryuuki_X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinjin_ry" height="30" width="40" /></a>
