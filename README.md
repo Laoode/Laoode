@@ -35,8 +35,10 @@
 | ------------- | ------------- |
 
 <p >
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a>
+  <img align="left" alt="bento" width="400" src="https://github.com/Laoode/Laoode/blob/main/Frame%20bento.avif">
 </p>
+
 
 ## 🚀 Featured Portfolio Projects  
 | <img src="https://github.com/Laoode/Medical-QA-Agent/raw/main/assets/Banner.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EduView/raw/main/images/cyberpunk-object.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Fingerprint_Recognition/raw/main/Images/UI-Fingerprint.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Cancer-Predictor/raw/main/Images/medical-tech.gif" width="300" height="200"> |
