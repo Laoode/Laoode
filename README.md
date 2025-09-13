@@ -34,7 +34,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=laoode&theme=midnight-purple&hide_border=true&show_icons=true&locale=en" alt="laoode"  /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laoode&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a> | <img align="left" alt="bento" width="333" src="https://github.com/Laoode/Laoode/blob/main/Frame%2041.avif"> |
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a> | <img align="left" alt="bento" width="323" src="https://github.com/Laoode/Laoode/blob/main/Frame%2041.avif"> |
 | ------------- | ------------- |
 
 ## 🚀 Featured Portfolio Projects  
