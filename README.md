@@ -38,7 +38,7 @@
 | ------------- | ------------- |
 
 ## 🚀 Featured Portfolio Projects  
-| <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/raw/main/assets/banner.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Medical-QA-Agent/raw/main/assets/Banner.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EduView/raw/main/images/cyberpunk-object.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> |
+| <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/raw/main/assets/banner.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Medical-QA-Agent/raw/main/assets/Banner.gif" width="300" height="200"> | <img src="https://i.pinimg.com/originals/18/e2/ad/18e2ad83b882cee8be192754e245bb9e.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> |
 |---|---|---|---|
 | 🖋️ **AI Agent Psychiatrist for Mental Health** | 🖋️ **Conversational Agent for Medical Question-Answering Using RAG and LLM** | 🖋️ **Smart Online Proctoring Assist for Cheating** | 🖋️ **EdTech App with Real-Time Sentiment Analysis** |
 | 📝 *This project aims to develop an artificial intelligence (AI)...* | 📝 *This project demonstrates how to create a conversational...* | 📝 *AI-powered system designed to detect cheating in both offline and online exams...* | 📝 *EdTech — A P2P platform connecting students and...* |
