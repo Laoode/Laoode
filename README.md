@@ -67,17 +67,17 @@
 | 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
 | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
 -->
-## 💻 Featured YouTube Videos
+<!-- ## 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Deteksi Pencuri Otomatis via CCTV dengan Sistem Alarm dan Foto Pelaku menggunakan YOLOv5+OpenCV(ROI)](https://ytcards.demolab.com/?id=GKpb74elfus&title=Deteksi+Pencuri+Otomatis+via+CCTV+dengan+Sistem+Alarm+dan+Foto+Pelaku+menggunakan+YOLOv5%2BOpenCV%28ROI%29&lang=en&timestamp=1715046000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3276 "Deteksi Pencuri Otomatis via CCTV dengan Sistem Alarm dan Foto Pelaku menggunakan YOLOv5+OpenCV(ROI)")](https://youtu.be/GKpb74elfus?si=K4aIkF6eQqWlJjGo)
-[![EDUBRIGHT -- Pitch Deck Capstone Bangkit 2024 Batch 2](https://ytcards.demolab.com/?id=LnSZfNdE0OU&title=EDUBRIGHT+--+Pitch+Deck+Capstone+Bangkit+2024+Batch+2&lang=en&timestamp=1734048000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=580 "EDUBRIGHT -- Pitch Deck Capstone Bangkit 2024 Batch 2")](https://youtu.be/LnSZfNdE0OU?si=M1-Z4NEF7vTlrC47)
+<!-- [![Deteksi Pencuri Otomatis via CCTV dengan Sistem Alarm dan Foto Pelaku menggunakan YOLOv5+OpenCV(ROI)](https://ytcards.demolab.com/?id=GKpb74elfus&title=Deteksi+Pencuri+Otomatis+via+CCTV+dengan+Sistem+Alarm+dan+Foto+Pelaku+menggunakan+YOLOv5%2BOpenCV%28ROI%29&lang=en&timestamp=1715046000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3276 "Deteksi Pencuri Otomatis via CCTV dengan Sistem Alarm dan Foto Pelaku menggunakan YOLOv5+OpenCV(ROI)")](https://youtu.be/GKpb74elfus?si=K4aIkF6eQqWlJjGo)
+[![EDUBRIGHT -- Pitch Deck Capstone Bangkit 2024 Batch 2](https://ytcards.demolab.com/?id=LnSZfNdE0OU&title=EDUBRIGHT+--+Pitch+Deck+Capstone+Bangkit+2024+Batch+2&lang=en&timestamp=1734048000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=580 "EDUBRIGHT -- Pitch Deck Capstone Bangkit 2024 Batch 2")](https://youtu.be/LnSZfNdE0OU?si=M1-Z4NEF7vTlrC47)-->
 <!-- END YOUTUBE-CARDS -->
 
-<!--### 🎧 Spotify Playing 
-[![Spotify](https://novatorem-seven-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31qm2wibuajpi3siaz3q2jck7vyy)-->
+### 🎧 Spotify Playing 
+[![Spotify](https://novatorem-seven-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31qm2wibuajpi3siaz3q2jck7vyy)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
