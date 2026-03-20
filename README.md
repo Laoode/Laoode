@@ -51,7 +51,7 @@
 | 📝 *Biometrics Recognition using Deep Learning...* | 📝 *AI-powered app to predict breast cancer...* | 📝 *Thief detection via CCTV with YOLOv5 and...* | 📝 *Sophisticated chatbot using OpenAI API and...* | 📝 *Interactive Power BI dashboard for Netflix...* |
 | 🏷️ *AI, Biometrics, Fingerprint, Autoencoders* | 🏷️ *Breast Cancer, Machine Learning, Logistic* | 🏷️ *Object Detection, YOLO* | 🏷️ *AI, Chatbot, OpenAI* | 🏷️ *Data Analytics, PowerBI* |
 | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Biometrics-Fingerprint) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Breast-Cancer-Predictor) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Thief-Object-Detection) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Chatbot-Agora-AI) | 🔗 [View Project](https://yudhyprayitno.vercel.app/projects/Netflix-Analytics) |
-<!--
+
 ## 🌐 Featured Blog Posts  
 | <img src="https://y-intelligence.vercel.app/_astro/cover1.B4VIsC31_Z2vyMF4.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover1.B7HVKaPW_Z1mprwt.webp" width="300" height="200"> | <img src="https://y-intelligence.vercel.app/_astro/cover.BJtHqgJX_ZyCglo.webp" width="300" height="200"> |
 |---|---|---|
@@ -66,7 +66,7 @@
 | 📅 **2024-11-21** | 📅 **2024-11-01** |
 | 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
 | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
--->
+
 <!-- ## 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
@@ -77,7 +77,7 @@
 [![EDUBRIGHT -- Pitch Deck Capstone Bangkit 2024 Batch 2](https://ytcards.demolab.com/?id=LnSZfNdE0OU&title=EDUBRIGHT+--+Pitch+Deck+Capstone+Bangkit+2024+Batch+2&lang=en&timestamp=1734048000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=580 "EDUBRIGHT -- Pitch Deck Capstone Bangkit 2024 Batch 2")](https://youtu.be/LnSZfNdE0OU?si=M1-Z4NEF7vTlrC47)-->
 <!-- END YOUTUBE-CARDS -->
 
-### 🎧 Spotify Playing 
+<!--### 🎧 Spotify Playing 
 [![Spotify](https://novatorem-seven-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31qm2wibuajpi3siaz3q2jck7vyy)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
