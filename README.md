@@ -8,35 +8,29 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laoode&label=Profile%20views&color=0e75b6&style=flat" alt="laoode" /> </p>
-<p align ="left">Aspiring Computer Scientist | Deep Learning, Computer Vision, Reinforcement Learning, and LLM Enthusiast</p>
-<!-- <h3 align="left">Connect with me:</h3>
+<p align ="left">Fine-tuning small language models (SLMs), agentic systems, and LLM inference. Making GPUs go brrr.</p>
+
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Ryuuki_X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinjin_ry" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yudhy-prayitno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laode muhammad yudhy prayitno" height="30" width="40" /></a>
 <a href="https://instagram.com/yudhyprayitno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yudhyprayitno" height="30" width="40" /></a>
 </p>
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a>
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> 
+
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/cuda.png" alt="c++" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
 </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a>
-</a> <a href="https://docs.ultralytics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" alt="yolo" width="40" height="40"/> </a>
-<a href="https://flet.dev/" target="_blank" rel="noreferrer"> <img src="https://flet.dev/img/logo.svg" alt="flet" width="40" height="40"/> </a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://reflex.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" alt="reflex" width="40" height="40"/> </a>
-<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="power bi" width="40" height="40"/> </a>
-</p> -->
-
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=laoode&theme=midnight-purple&hide_border=true&show_icons=true&locale=en" alt="laoode"  /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laoode&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+<!--
 | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laoode&theme=midnight-purple&border_radius=4.7" alt="GitHub Streak" /></a> | <img align="left" alt="bento" width="323" src="https://github.com/Laoode/Laoode/blob/main/Frame%2041.avif"> |
 | ------------- | ------------- |
-
+ -->
+<!--
 ## 🚀 Featured Portfolio Projects  
 | <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/raw/main/assets/banner.gif" width="300" height="200"> | <img src="https://github.com/Laoode/Medical-QA-Agent/raw/main/assets/Banner.gif" width="300" height="200"> | <img src="https://i.pinimg.com/originals/18/e2/ad/18e2ad83b882cee8be192754e245bb9e.gif" width="300" height="200"> | <img src="https://github.com/Laoode/EdTech-App/raw/main/Banner/banner-iphone.gif" width="300" height="200"> |
 |---|---|---|---|
@@ -66,6 +60,7 @@
 | 📅 **2024-11-21** | 📅 **2024-11-01** |
 | 🏷️ *Fundamental, Blockchain, Y-Intelligence* | 🏷️ *Fundamental, AI, Y-Intelligence* |
 | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-desci/) | 🔗 [Read More](https://y-intelligence.vercel.app/posts/intro-ai/) |
+-->
 
 <!-- ## 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
