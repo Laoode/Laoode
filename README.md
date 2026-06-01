@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laoode&label=Profile%20views&color=0e75b6&style=flat" alt="laoode" /> </p>
-<p align ="left">Fine-tuning small language models (SLMs), agentic systems, and LLM inference. Making GPUs go brrr.</p>
+<p align ="left">Fine-tuning small language models (SLMs), engineering agentic systems, and optimizing LLM inference.</p>
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
