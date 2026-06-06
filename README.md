@@ -23,9 +23,11 @@
 <a href="https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/cuda.png" alt="c++" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
 </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a>
-</a> <a href="https://unsloth.ai/" target="_blank" rel="noreferrer"> <img src="https://unsloth.ai/cgi/image/unsloth_green_sticker_cME6ryC59BlZg-VtqGN4p.png?width=640&quality=80&format=auto" alt="pytorch" width="40" height="40"/> </a>
-</a> <a href="https://github.com/hiyouga/LlamaFactory" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/184258396?v=4" alt="pytorch" width="40" height="40"/> </a>
-</a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" alt="pytorch" width="40" height="40"/> </a>
+</a> <a href="https://unsloth.ai/" target="_blank" rel="noreferrer"> <img src="https://unsloth.ai/cgi/image/unsloth_green_sticker_cME6ryC59BlZg-VtqGN4p.png?width=640&quality=80&format=auto" alt="unsloth" width="40" height="40"/> </a>
+</a> <a href="https://github.com/hiyouga/LlamaFactory" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/184258396?v=4" alt="llamafactory" width="40" height="40"/> </a>
+</a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" alt="langchain" width="40" height="40"/> </a>
+</a> <a href="https://vllm.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/vllm-color.png" alt="vllm" width="40" height="40"/> </a>
+
 <!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=laoode&theme=midnight-purple&hide_border=true&show_icons=true&locale=en" alt="laoode"  /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laoode&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | ------------- | ------------- |
