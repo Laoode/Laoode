@@ -3,12 +3,9 @@
 <!--  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=926FF7&center=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yudhy+Prayitno" alt="Typing SVG" /></a><p align="center">
 <p align="center"> -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=80EF80&center=true&random=false&width=700&lines=LLM+Research+%26+Engineering;Post-training+%26+Alignment;Inference+Engines+%26+GPU+Kernel;Distributed+ML+%26+Infrastructure;Agentic+AI+Engineering" alt="Typing SVG" />
-</a>
-
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=25&pause=1000&color=80EF80&center=true&random=false&width=700&lines=LLM+Research+%26+Engineering;Post-training+%26+Alignment;Inference+Engines+%26+GPU+Kernel;Distributed+ML+%26+Infrastructure;Agentic+AI+Engineering" alt="Typing SVG" />
+</a></p>
 <hr>
-
 <!-- <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"> -->
 <!-- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif"> -->
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/c5/28/40/c528406ae0e57d4d79ca721850764453.gif">
